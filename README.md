@@ -1,8 +1,9 @@
 # eletroportaspalhoca 
 A client's company presentation web page
+http://www.eletroportaspalhoca.com.br
 
 # Languages and Technologies
-* Html
+* Html5
 * CSS / Bootstrap
-* JavaScript
-* Firebase database
+* Canva
+
